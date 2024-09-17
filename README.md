@@ -22,3 +22,6 @@ We believe in providing a space where creativity meets code. With our clean inte
 ---
 
 Join the journey and contribute to building the future of coding education. Your skills, your pace, your way. 🌱
+
+
+Copyright (c) 2024 CodeGravity.
